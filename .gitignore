@@ -1,9 +1,10 @@
+# for project 1 #
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
 project-1/node_modules
 project-1/.pnp
-project-1.pnp.js
+project-1/.pnp.js
 
 # testing
 project-1/coverage
@@ -21,3 +22,29 @@ project-1/.env.production.local
 project-1/npm-debug.log*
 project-1/yarn-debug.log*
 project-1/yarn-error.log*
+
+# for project 2 #
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+project-2/react-app-2/node_modules
+project-2/react-app-2/.pnp
+project-2/react-app-2/.pnp.js
+
+# testing
+project-2/react-app-2/coverage
+
+# production
+project-2/react-app-2/build
+
+# misc
+project-2/react-app-2/.DS_Store
+project-2/react-app-2/.env.local
+project-2/react-app-2/.env.development.local
+project-2/react-app-2/.env.test.local
+project-2/react-app-2/.env.production.local
+
+project-2/react-app-2/npm-debug.log*
+project-2/react-app-2/yarn-debug.log*
+project-2/react-app-2/yarn-error.log*
+
